@@ -1,4 +1,4 @@
 <?php
-echo'Prueba heroku'; ?>
+echo'Prueba heroku git'; ?>
 
 <? echo phpinfo(); ?>
